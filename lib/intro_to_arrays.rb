@@ -6,3 +6,9 @@ end
 def array_with_two_elements
   [nil] * 2
 end
+
+def first_element(arr)
+  arr.first
+end
+
+def 
