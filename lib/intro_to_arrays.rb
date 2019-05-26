@@ -11,4 +11,6 @@ def first_element(arr)
   arr.first
 end
 
-def 
+def third_element(arr)
+  arr[2]
+end
